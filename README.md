@@ -25,5 +25,4 @@ This project is a data analysis of movie sales data. We use a kagle dataset and 
 
 -`git clone https://github.com/JSchwerdt2014/movie-data-project.git`  
 -Raw data is here https://github.com/JSchwerdt2014/movie-data-project/blob/master/orig-movie-data.csv  
-
 -Cleaned data is here https://github.com/JSchwerdt2014/movie-data-project/blob/master/cleaned-movie-data.csv  
