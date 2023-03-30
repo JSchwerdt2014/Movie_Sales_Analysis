@@ -5,6 +5,7 @@ We will use correlation data to provide profitable insights.
 
 1. What factors have the greatest influence on gross sales?
 2. Within those factors, is there a set range that performs best?
+3. Does movie budget have a large influence on gross profit?
 
 ## **Methods Used**
 
