@@ -1,6 +1,10 @@
 # **Movie-Correlation-Poject**
 
-The purpose of this project is to analyze movie sales data to find correlation data and explore expectations of future movie sales.
+In this project we have a up and coming movie producer wanting to make some data-driven decisions about the production of the film.
+We will use correlation data to provide profitable insights.
+
+1. What factors have the greatest influence on gross sales?
+2. Within those factors, is there a set range that performs best?
 
 ## **Methods Used**
 
@@ -16,6 +20,7 @@ The purpose of this project is to analyze movie sales data to find correlation d
 -MatPlotLib  
 -Seaborn  
 -NumPy  
+-Tableau 
 
 ## **Project Discription**
 
